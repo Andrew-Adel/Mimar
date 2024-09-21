@@ -1,2 +1,1 @@
-"# Mimar" 
-"# Mimar" 
+"# Mimar"
